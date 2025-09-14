@@ -1,0 +1,11 @@
+.header {
+    background-color: #8bbccf;
+    color: #30364e;
+}
+
+.footer {
+    background-color: #20232a;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
